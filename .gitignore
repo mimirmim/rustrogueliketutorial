@@ -2,3 +2,5 @@
 **/*.rs.bk
 book/book
 savegame.json
+*.DS_Store
+.idea
